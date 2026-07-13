@@ -4,6 +4,7 @@ A Machine Learning REST API built using **FastAPI**, **XGBoost**, and **Docker**
 
 ## 🌐 Live Demo
 **API:** https://customer-churn-prediction-or62.onrender.com
+
 **Swagger UI:** https://customer-churn-prediction-or62.onrender.com/docs
 
 ## 📌 Features
