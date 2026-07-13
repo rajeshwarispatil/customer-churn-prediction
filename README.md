@@ -173,6 +173,3 @@ https://customer-churn-prediction-or62.onrender.com
 
 GitHub: https://github.com/rajeshwarispatil
 
-## ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub.
