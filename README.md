@@ -165,11 +165,4 @@ https://customer-churn-prediction-or62.onrender.com
   "Prediction":"Churn",
   "Probability":0.9234
 }
-```
-
-## 👩‍💻 Author
-
-**S Basavarajeshwari**
-
-GitHub: https://github.com/rajeshwarispatil
 
