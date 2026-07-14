@@ -169,7 +169,7 @@ https://customer-churn-prediction-or62.onrender.com
 
 ## 👩‍💻 Author
 
-**Rajeshwari Patil**
+**S Basavarajeshwari**
 
 GitHub: https://github.com/rajeshwarispatil
 
